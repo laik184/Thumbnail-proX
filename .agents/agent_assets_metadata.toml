@@ -1,0 +1,85 @@
+uploads = []
+
+[[generated]]
+id = "ijwChDRjLvoJK9zUDrp5C"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "Clean wide YouTube-shape download icon"
+
+[[generated]]
+id = "HPgcMmteINEADMDodOTdl"
+uri = "file://artifacts/mobile/assets/images/icon-foreground.png"
+type = "image"
+title = "Wide download adaptive foreground"
+
+[[generated]]
+id = "LQaNLPtX3f605mFUvrD1a"
+uri = "file://attached_assets/playstore/feature_graphic.png"
+type = "image"
+title = "Play Store feature graphic"
+
+[[generated]]
+id = "cifG6vIM9gf_ie4KkYCZo"
+uri = "file://attached_assets/playstore/screenshot_1_download.png"
+type = "image"
+title = "screenshot one download feature"
+
+[[generated]]
+id = "XVy5qvPFJQBB2cL7r4Mg_"
+uri = "file://attached_assets/playstore/screenshot_2_create.png"
+type = "image"
+title = "screenshot two create editor"
+
+[[generated]]
+id = "BZIn0gzBabtJC7GrpX-lK"
+uri = "file://attached_assets/playstore/screenshot_3_templates.png"
+type = "image"
+title = "screenshot three templates"
+
+[[generated]]
+id = "IOw_gBrMcX-4OJVsnvgvU"
+uri = "file://attached_assets/playstore/screenshot_4_quality.png"
+type = "image"
+title = "screenshot four 4k quality"
+
+[[generated]]
+id = "iwRuGJP6d7x6fpo_9L4AT"
+uri = "file://attached_assets/playstore/screenshot_5_pro.png"
+type = "image"
+title = "screenshot five pro upgrade"
+
+[[outputs]]
+id = "As8vF0vTtXJAVIMH6OaWu"
+uri = "file://attached_assets/playstore/feature_graphic.png"
+type = "image"
+title = "Feature Graphic (1024×500 banner for Play Store top)"
+
+[[outputs]]
+id = "MuJavnFpAh3Ifaem66j3z"
+uri = "file://attached_assets/playstore/screenshot_1_download.png"
+type = "image"
+title = "Screenshot 1 — Download YouTube Thumbnails"
+
+[[outputs]]
+id = "8E8O5BU5-ZlQNQC4zHOI1"
+uri = "file://attached_assets/playstore/screenshot_2_create.png"
+type = "image"
+title = "Screenshot 2 — Create Pro Thumbnails"
+
+[[outputs]]
+id = "cyGYkNKrtbBi0Et2Ebso9"
+uri = "file://attached_assets/playstore/screenshot_3_templates.png"
+type = "image"
+title = "Screenshot 3 — 30+ Templates"
+
+[[outputs]]
+id = "8bS9pXSaa9lK9JBU-rNkI"
+uri = "file://attached_assets/playstore/screenshot_4_quality.png"
+type = "image"
+title = "Screenshot 4 — True 4K Quality"
+
+[[outputs]]
+id = "GHv9JzB4h5U3KOkWWrwXM"
+uri = "file://attached_assets/playstore/screenshot_5_pro.png"
+type = "image"
+title = "Screenshot 5 — Unlock Pro Features"
